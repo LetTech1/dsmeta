@@ -29,7 +29,6 @@ configurado na aplicação.
 
 ## Autor
 
-Letícia Baptista Félix
-(https://www.linkedin.com/in/leticiabapfelix/)
+Letícia Baptista Félix - https://www.linkedin.com/in/leticiabapfelix/
 
 
