@@ -20,6 +20,6 @@ de sms com auxílio da plataforma twilio.
 
 ## Resultado final
 
-<img src="C:\Users\leticia.felix\Desktop\Fotos\dsmeta.png alt="Projeto final" />
+https://github.com/LeticiaBapFelix/dsmeta/issues/1#issue-1310304327
 
 
