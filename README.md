@@ -19,7 +19,9 @@ Desenvolver uma página web que liste vendas, contendo informações como nome d
 de sms com auxílio da plataforma twilio.
 
 ## Resultado final
+Como podemos ver, as vendas são listadas de acordo com o período informado e quando o botão vermelho é clicado, um sms é enviado ao número que foi
+configurado na aplicação.
 
-https://github.com/LeticiaBapFelix/dsmeta/issues/1#issue-1310304327
+![dsmeta](https://user-images.githubusercontent.com/71408314/179881257-45f38146-1b83-42ec-9f6a-c5a02fd1b972.png)
 
 
