@@ -4,6 +4,9 @@ Desenvolvimento de um projeto web da Semana Spring React - DevSuperior
 ## Tecnologias utilizadas
 * Framework Spring Boot
 * Framework React
+* JPA
+* Maven
+* HTML / CSS
 
 ## Ferramentas
 * JDK 17
@@ -23,5 +26,10 @@ Como podemos ver, as vendas são listadas de acordo com o período informado e q
 configurado na aplicação.
 
 ![dsmeta](https://user-images.githubusercontent.com/71408314/179881257-45f38146-1b83-42ec-9f6a-c5a02fd1b972.png)
+
+## Autor
+
+Letícia Baptista Félix
+(https://www.linkedin.com/in/leticiabapfelix/)
 
 
